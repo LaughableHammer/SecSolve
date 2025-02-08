@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # any images uploaded for testing
-/static/files/*
+static/
